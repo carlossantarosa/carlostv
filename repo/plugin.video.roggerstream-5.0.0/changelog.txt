@@ -1,0 +1,5 @@
+Versao 5.0.0
+*Correção de erros ao executar o addon
+
+
+
